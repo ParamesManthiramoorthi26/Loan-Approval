@@ -32,10 +32,10 @@ Identify the best-performing model based on accuracy, precision, recall, and F1-
 ![image](https://github.com/user-attachments/assets/7249cb8a-8892-4b72-b59e-e236711f0de5)
 
 ## My Observations
-*Best Accuracy:* Naive Bayes (0.80), followed closely by Logistic Regression (0.792).
-*Best Precision for Class 1:* Logistic Regression (0.80), followed by Naive Bayes (0.79).
-*Best Recall for Class 1:* Naive Bayes (0.96), followed by Logistic Regression (0.92).
-*Best F1-Score for Class 1:* Naive Bayes (0.87), followed by Logistic Regression (0.86).
+* Best Accuracy:* Naive Bayes (0.80), followed closely by Logistic Regression (0.792).
+* Best Precision for Class 1:* Logistic Regression (0.80), followed by Naive Bayes (0.79).
+* Best Recall for Class 1:* Naive Bayes (0.96), followed by Logistic Regression (0.92).
+* Best F1-Score for Class 1:* Naive Bayes (0.87), followed by Logistic Regression (0.86).
 ## Conclusion
 * Naive Bayes and Logistic Regression performed the best overall, with high accuracy, recall, and F1-score.
 * SVM also performed well, balancing precision and recall.
